@@ -1,0 +1,50 @@
+body {
+font-family: campaign, sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: 2rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+ font-family: campaign, sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+header {
+	paddding:  2rem 0;
+	font-size: 1rem;
+}
+ .menu {
+padding: 1rem 0;
+ }
+.obama{
+	padding: 1rem 0;
+	margin-bottom: 2rem;
+}
+
+.obama-tour{
+	font-size: 105%;
+	text-align: center;
+
+}
+
+.button {
+	text-align: center;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	border-radius:1rem;
+	align-self: center;
+	padding: 1rem;
+	padding-left: 2rem;
+	background-color: #000000;
+	font-size: 1rem;
+
+}
+
+footer {
+	align-content: center;
+	background-color: #D93B32;
+	padding: 2rem 0;
+	color: #ffffff;
+	text-align: center;
